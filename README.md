@@ -2,13 +2,13 @@
 This repository contains a collection of projects and exercises related to MySQL. These projects are designed to help me learn and apply MySQL concepts, including database creation, management, and analysis.
 
 You can find the project folder here: 
-[MySql_project2_Cars Data Analysis]([/MySql_project2_Cars Data Analysis/](https://github.com/Bhadra24/MySQL_Projects/tree/fa4bc586213ed87ab44f4d6c6073899b870cdd9e/MySql_project2_Cars%20Data%20Analysis))
+1. [MySql_project2_Cars Data Analysis](https://github.com/Bhadra24/MySQL_Projects/tree/fa4bc586213ed87ab44f4d6c6073899b870cdd9e/MySql_project2_Cars%20Data%20Analysis)
 
 
 
 ## Table of Contents
 
-- [Contents](#contents)
+- [MySQL Projects](#mysql-projects)
 - [Project Setup](#project-setup)
 - [Database Creation](#database-creation)
 - [Data Analysis Queries](#data-analysis-queries)
@@ -16,8 +16,9 @@ You can find the project folder here:
     - [2. Project2 Cars Data Analysis](#2-project2-cars-data-analysis)
     - [3. Cars Available in 2020, 2021, 2022](#3-cars-available-in-2020-2021-2022)
     - [4. Total Cars by Year](#4-total-cars-by-year)
+- [Projects Folder](#projects-folder)
 
-## Contents
+## MySQL Projects
 
 MySQL Projects/: Main directory for all MySQL-related projects.
 1. ***MySql_project1_SF Salaries Analysis:*** This project, focused on analyzing salary data from San Francisco.
@@ -55,8 +56,10 @@ USE Your Database Name;
 9. Get the count of cars between 2015 and 2023.
 10. Get the details of cars between 2015 and 2023
 
-
-
+## Projects Folder
+You can find the project folder here: 
+1. [MySql_project1_SF Salaries Analysis](https://github.com/Bhadra24/MySQL_Projects/tree/fa4bc586213ed87ab44f4d6c6073899b870cdd9e/MySql_project2_Cars%20Data%20Analysis)
+2. [MySql_project2_Cars Data Analysis](https://github.com/Bhadra24/MySQL_Projects/tree/fa4bc586213ed87ab44f4d6c6073899b870cdd9e/MySql_project2_Cars%20Data%20Analysis)
 
 
 
