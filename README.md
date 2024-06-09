@@ -2,7 +2,7 @@
 This repository contains a collection of projects and exercises related to MySQL. These projects are designed to help me learn and apply MySQL concepts, including database creation, management, and analysis.
 
 You can find the project folder here: 
-[MySql_project2_Cars Data Analysis](/MySql_project2_Cars Data Analysis/)
+[MySql_project2_Cars Data Analysis]([/MySql_project2_Cars Data Analysis/](https://github.com/Bhadra24/MySQL_Projects/tree/fa4bc586213ed87ab44f4d6c6073899b870cdd9e/MySql_project2_Cars%20Data%20Analysis))
 
 
 
