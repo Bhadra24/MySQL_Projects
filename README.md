@@ -1,11 +1,6 @@
 # MySQL_Projects
 This repository contains a collection of projects and exercises related to MySQL. These projects are designed to help me learn and apply MySQL concepts, including database creation, management, and analysis.
 
-You can find the project folder here: 
-1. [MySql_project2_Cars Data Analysis](https://github.com/Bhadra24/MySQL_Projects/tree/fa4bc586213ed87ab44f4d6c6073899b870cdd9e/MySql_project2_Cars%20Data%20Analysis)
-
-
-
 ## Table of Contents
 
 - [MySQL Projects](#mysql-projects)
@@ -58,7 +53,7 @@ USE Your Database Name;
 
 ## Projects Folder
 You can find the project folder here: 
-1. [MySql_project1_SF Salaries Analysis](https://github.com/Bhadra24/MySQL_Projects/tree/fa4bc586213ed87ab44f4d6c6073899b870cdd9e/MySql_project2_Cars%20Data%20Analysis)
+1. [MySql_project1_SF Salaries Analysis](https://github.com/Bhadra24/MySQL_Projects/tree/6d9c984552cebdfb1635dbbf8dc8030e2fa776ec/MySql_project1_SF%20Salaries%20Analysis)
 2. [MySql_project2_Cars Data Analysis](https://github.com/Bhadra24/MySQL_Projects/tree/fa4bc586213ed87ab44f4d6c6073899b870cdd9e/MySql_project2_Cars%20Data%20Analysis)
 
 
