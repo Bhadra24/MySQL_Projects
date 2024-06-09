@@ -1,6 +1,11 @@
 # MySQL_Projects
 This repository contains a collection of projects and exercises related to MySQL. These projects are designed to help me learn and apply MySQL concepts, including database creation, management, and analysis.
 
+You can find the project folder here: 
+[MySql_project2_Cars Data Analysis](/MySql_project2_Cars Data Analysis/)
+
+
+
 ## Table of Contents
 
 - [Contents](#contents)
@@ -16,14 +21,14 @@ This repository contains a collection of projects and exercises related to MySQL
 
 MySQL Projects/: Main directory for all MySQL-related projects.
 1. ***MySql_project1_SF Salaries Analysis:*** This project, focused on analyzing salary data from San Francisco.
-2. ***MySql_project2_Cars Data Analysis:*** This project involves analyzing data from a car database using MySQL. The analysis includes various queries to extract insights about car availability, types, and counts over different years.
+2. ***MySql_project2_Cars Data Analysis:*** This project analyzes data from a car database using MySQL. The analysis includes various queries to extract insights about car availability, types, and counts over the years.
 
 
 ## Project Setup
 
 1. **Install MySQL**: Ensure that MySQL is installed on your system.
 2. **Create Database**: Create the database for respective projects as shown in the [Database Creation](#database-creation) section.
-3. **Load Data**: Insert data into the table. You can download the respective CSV files used for the various projects from the project folders.
+3. **Load Data**: Insert data into the table. You can go ahead and download the respective CSV files used for the various projects from the project folders.
 
 ## Database Creation
 
